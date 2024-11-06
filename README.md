@@ -1,6 +1,6 @@
 ---
-title: "Stanley's Project"
-author: "Stanley"
+title: "Brain Tumor Predication using ML and DL"
+author: "Nirmal"
 date: "`r Sys.Date()`"
 output: html_document
 ---
